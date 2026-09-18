@@ -102,7 +102,7 @@ DeepSomatic/
 
 ## ⚙️ Workflow Steps
 
-<img height="840" alt="deepsomatic" src="https://github.com/user-attachments/assets/edb45e8a-f98b-47a1-9e02-f6b506260ff3" />
+<img height="840" alt="deepsomatic" src="https://github.com/user-attachments/assets/e86585d7-4a6f-42f0-9942-5b967ffdb2b8" />
 
 
 ---
