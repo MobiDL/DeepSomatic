@@ -1,0 +1,6 @@
+[submodule "modules"]
+	path = modules
+	url = git@github.com:MobiDL/modules.git
+[submodule "backends.conf"]
+	path = backends.conf
+	url = git@github.com:MobiDL/backends.conf.git
