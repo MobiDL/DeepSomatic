@@ -1,0 +1,7 @@
+{
+	"DeepSomatic.sample": "test",
+	"DeepSomatic.bed": "tests/bed/test.bed",
+	"DeepSomatic.fasta": "tests/fasta/chr.fa",
+    "DeepSomatic.bam": "tests/bam/sample.bam",
+	"DeepSomatic.outputPath": "output_DeepSomatic"
+}
